@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.abdi_gebisa.twa",
+      "sha256_cert_fingerprints": [
+        "1D:4D:35:D8:61:07:C2:CD:A1:43:09:20:5B:6B:50:B5:97:97:B6:A6:6F:B0:64:F4:F3:F1:14:2C:63:6E:E9:99"
+      ]
+    }
+  }
+]
